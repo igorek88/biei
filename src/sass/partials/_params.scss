@@ -1,0 +1,16 @@
+$headline: #4DBDDA;
+$main_color_text: #404040;
+
+
+@font-face {
+   font-family: OpenSansRegular;
+   src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+   font-family: OpenSansRegular;
+ }
